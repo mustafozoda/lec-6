@@ -77,8 +77,35 @@
 
 
 
-const element = document.getElementById("myElement");
-element.classList.toggle("active");
+// const element = document.getElementById("myElement");
+// element.classList.toggle("active");
+
+
+const newWindow = window.open('http://www.example.com', '_blank', 'width=500,height=500');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
